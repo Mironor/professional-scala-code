@@ -1,6 +1,26 @@
-# "Professional Scala" code repository
+# Code Examples for Professional Scala - Wrox
 
-This is companion repository for chapters 2, chapter 11 and some parts of chapter 3 from the book "Professional Scala" by Wrox Press.
+ISBN: 978-1-119-26722-5
+
+This is companion repository for chapters 2 (Functional programming), chapter 11 (concurrency) and some parts of chapter 3 (Java compatibility) from the book "Professional Scala" by Wrox Press.
+
+## Prerequisites
+
+### Required Software
+
+Both chapters require
+
+ - Scala 2.11.7 or later
+ - SBT 0.13.8 or later
+ - JDK 8
+
+Ensure the `scala` and `sbt` commands are on the command path.
+
+### Required Hardware
+
+Processor: Pentium 2 266 MHz or better
+
+RAM: 1GB or better
 
 ## Installation
 
@@ -9,8 +29,6 @@ Just clone the repository.
 ## Usage
 
 You may run the examples using "sbt" in command line (`sbt run` will do the trick).
-
-Alternatively import the project in Intellij, there will be an icon on the left of each example that will execute it specifically.
 
 ## Contributing
 
