@@ -1,4 +1,4 @@
-package com.professionalscala.ch2
+package com.wrox.professionalscala.ch2
 
 object ForIteration extends App {
   val users = List(User("Alex", 26), User("Sam", 24))

@@ -1,4 +1,4 @@
-package com.professionalscala.ch11
+package com.wrox.professionalscala.ch11
 
 import akka.actor.{ActorSystem, Props, Actor, ActorLogging}
 

@@ -1,4 +1,4 @@
-package com.professionalscala.ch3.java;
+package com.wrox.professionalscala.ch3.java;
 
 public class CompatibilityClass {
     public void print(){

@@ -1,4 +1,4 @@
-package com.professionalscala.ch11
+package com.wrox.professionalscala.ch11
 
 import rx.lang.scala.Observable
 import rx.lang.scala.schedulers.IOScheduler

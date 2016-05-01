@@ -1,4 +1,4 @@
-package com.professionalscala.ch2
+package com.wrox.professionalscala.ch2
 
 object SwapMutable extends App{
   var a = 1

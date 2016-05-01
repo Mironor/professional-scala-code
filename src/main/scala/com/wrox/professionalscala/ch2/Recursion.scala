@@ -1,4 +1,4 @@
-package com.professionalscala.ch2
+package com.wrox.professionalscala.ch2
 
 import scala.annotation.tailrec
 

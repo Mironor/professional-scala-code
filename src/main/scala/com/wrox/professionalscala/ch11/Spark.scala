@@ -1,4 +1,4 @@
-package com.professionalscala.ch11
+package com.wrox.professionalscala.ch11
 
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.SQLContext

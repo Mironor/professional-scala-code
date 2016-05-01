@@ -1,6 +1,6 @@
-package com.professionalscala.ch3
+package com.wrox.professionalscala.ch3
 
-import com.professionalscala.ch3.java.{CompatibilityClass, CompatibilityInterface}
+import com.wrox.professionalscala.ch3.java.{CompatibilityClass, CompatibilityInterface}
 
 object CompatibilityJavaInterface extends App {
   class ScalaClass extends CompatibilityInterface {
