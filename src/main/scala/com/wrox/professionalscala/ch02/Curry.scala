@@ -1,4 +1,4 @@
-package com.wrox.professionalscala.ch2
+package com.wrox.professionalscala.ch02
 
 object AddPartial extends App {
   def add(a: Int, b: Int) = a + b

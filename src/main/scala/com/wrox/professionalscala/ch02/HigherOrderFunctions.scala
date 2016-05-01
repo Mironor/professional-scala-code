@@ -1,4 +1,4 @@
-package com.wrox.professionalscala.ch2
+package com.wrox.professionalscala.ch02
 
 object ServerWithRepetitions extends App {
   val authenticatedUsers = List("Alex", "Sam")

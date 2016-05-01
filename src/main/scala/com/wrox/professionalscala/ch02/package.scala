@@ -1,6 +1,6 @@
 package com.wrox.professionalscala
 
-package object ch2 {
+package object ch02 {
   case class User(name: String, age: Int)
 
   class UserDao{

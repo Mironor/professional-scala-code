@@ -1,4 +1,4 @@
-package com.wrox.professionalscala.ch3.java;
+package com.wrox.professionalscala.ch03.java;
 
 public class JavaApplication {
     public static void main(String[] args) {
